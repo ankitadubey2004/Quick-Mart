@@ -36,4 +36,4 @@ for(const item of scrollContainer){
         evt.preventDefault();
         item.scrollLeft += evt.deltaY;
     });
-}
+}  
