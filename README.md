@@ -1,2 +1,2 @@
-# Amazon-clone
- Its a amzon clone website
+# Quick-Mart
+Quick-Mart e-commerce website by Ankita
