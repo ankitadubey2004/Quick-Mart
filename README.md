@@ -16,13 +16,11 @@
 
 ## **🔧 Tech Stack**
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** (Specify your backend technology here, e.g., Node.js or PHP)
-- **Database:** (Specify the database, e.g., MongoDB or MySQL)
+- **Backend:**  Node.js, Express and Postman
+- **Database:** MongoDB , MySQL
 
 ---
 
-## **🚀 How to Run This Project**
+## **📸 Screenshots**
+![Screenshot (434)](https://github.com/user-attachments/assets/4f2cb4b8-7c25-45ad-96c8-f13480bcfa6c)
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/QuickMart.git
