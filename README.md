@@ -22,5 +22,6 @@
 ---
 
 ## **📸 Screenshots**
+-- Here is a visual representation of Quickmart
 ![Screenshot (434)](https://github.com/user-attachments/assets/4f2cb4b8-7c25-45ad-96c8-f13480bcfa6c)
 
